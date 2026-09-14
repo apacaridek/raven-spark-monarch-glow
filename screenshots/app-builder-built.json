@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Monkey",
+      "hasCanvas": true,
+      "bodyTextLen": 175,
+      "bodyTextHash": "d9ddfaf4e00a51356ae483c1b3a2602546609fc2e091338799f141369ad5ce43",
+      "bodyTextPrefix": "SECTOR 07 · HATCH UNLOCKED Monkey Asisten di orbit senyap. Buka ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Monkey",
+      "hasCanvas": true,
+      "bodyTextLen": 175,
+      "bodyTextHash": "d9ddfaf4e00a51356ae483c1b3a2602546609fc2e091338799f141369ad5ce43",
+      "bodyTextPrefix": "SECTOR 07 · HATCH UNLOCKED Monkey Asisten di orbit senyap. Buka ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
